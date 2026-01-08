@@ -418,7 +418,7 @@
         "collection": "all",
         "layout_type": "carousel",
         "carousel_on_mobile": false,
-        "max_products": 3,
+        "max_products": 8,
         "columns": 3,
         "mobile_columns": "2",
         "columns_gap": 10,
